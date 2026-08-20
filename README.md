@@ -1,10 +1,16 @@
-# Rayendra Aldo Putra
+<img src="assets/banner.png" alt="Rayendra Aldo Putra — Teknik Robotika, Politeknik Negeri Batam" width="100%">
 
-**Mahasiswa Teknik Robotika — Politeknik Negeri Batam**
+<p>
+  <a href="mailto:raldoputra.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/rayendra-aldo-putra-40399b400"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <img src="https://img.shields.io/badge/Batam,%20Kepulauan%20Riau-1F2328?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Domisili">
+</p>
 
 Saya membangun sistem dari ujung ke ujung: firmware di perangkat, API di server, dashboard untuk operator, dan aplikasi di tangan pengguna. Ketertarikan utama saya ada di titik tempat perangkat keras bertemu perangkat lunak, terutama sistem yang harus tetap bekerja saat jaringannya mati.
 
 > **English:** Robotics engineering student building end-to-end systems — device firmware, backend APIs, operator dashboards, and mobile apps. Most interested in the seam where hardware meets software, especially systems that keep working when the network does not.
+
+## Perkakas yang saya pakai
 
 **Web**
 
@@ -40,13 +46,25 @@ Di sisi perangkat saya juga bekerja dengan FreeRTOS, sensor sidik jari, RTC, dan
 
 **[aiot-simalas](https://github.com/raldoputradev/aiot-simalas)** — Sistem absensi dan loker laboratorium berbasis sidik jari, dipakai di Lab Robotika kampus. Empat lapisan dalam satu proyek: mesin ESP32 di pintu lab, API Laravel, dashboard untuk laboran dan dosen, serta aplikasi Flutter untuk mahasiswa. Pencocokan sidik jari terjadi di perangkat, bukan di server, dan tap yang gagal terkirim masuk antrean lokal lalu disinkronkan saat jaringan kembali — absensi tidak pernah berhenti karena internet lab bermasalah.
 
-Repositori itu adalah cermin publik: seluruh kode ada di sana, tanpa satu pun data laboratorium, foto mahasiswa, atau kredensial. Ada seeder data fiktif supaya siapa pun bisa menjalankannya sendiri.
+Repositori itu adalah cermin publik: seluruh kode ada di sana, tanpa satu pun data laboratorium, foto mahasiswa, atau kredensial. Ada seeder data fiktif supaya siapa pun bisa menjalankannya sendiri, dan APK aplikasi mahasiswanya bisa diunduh dari halaman rilis.
+
+## Bahasa yang paling sering saya pakai
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raldoputradev&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Bahasa yang paling sering dipakai" width="420">
 
 ## Yang sedang saya kerjakan
 
 - Aplikasi desktop C# untuk membaca template sidik jari mentah menjadi citra dan skor kualitas
 - Docker untuk Laravel dan MySQL, supaya proyek bisa dijalankan tanpa menyiapkan XAMPP
 - ROS2 untuk robot mobile otonom: odometri roda, LiDAR, dan sensor jarak dekat
+
+## Kontribusi
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raldoputradev/raldoputradev/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raldoputradev/raldoputradev/output/pacman-contribution-graph.svg">
+  <img alt="Grafik kontribusi Pac-Man" src="https://raw.githubusercontent.com/raldoputradev/raldoputradev/output/pacman-contribution-graph.svg">
+</picture>
 
 ## Kontak
 
