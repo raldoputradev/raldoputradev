@@ -50,7 +50,9 @@ Repositori itu adalah cermin publik: seluruh kode ada di sana, tanpa satu pun da
 
 ## Bahasa yang paling sering saya pakai
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raldoputradev&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Bahasa yang paling sering dipakai" width="420">
+<img src="assets/bahasa.png" alt="Komposisi bahasa: PHP 32,2%, Blade 29,7%, Dart 19,1%, CSS 8,5%, JavaScript 7,3%, C++ 2,9%, C 0,3%" width="640">
+
+Sebaran ini datang dari kode nyata di [aiot-simalas](https://github.com/raldoputradev/aiot-simalas): backend Laravel dan dashboard Blade di server, aplikasi Flutter untuk mahasiswa, dan firmware C++ di mesin ESP32.
 
 ## Yang sedang saya kerjakan
 
