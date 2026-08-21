@@ -51,6 +51,12 @@ The public repo is a sandbox: full code, no lab data, no student photos, no cred
 
 This mix comes from real code in [aiot-simalas](https://github.com/raldoputradev/aiot-simalas): Laravel/Blade on the server, Flutter for students, and C++ firmware on the ESP32 machines.
 
+## Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=raldoputradev&show_icons=true&theme=github_dark&hide_border=true&hide_rank=true" alt="GitHub stats">
+</div>
+
 ## Contributions
 
 <picture>
