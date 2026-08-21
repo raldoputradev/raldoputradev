@@ -1,11 +1,11 @@
 <div align="center">
-<img src="assets/banner.png" alt="Rayendra Aldo Putra — Teknik Robotika, Politeknik Negeri Batam" width="100%">
+<img src="assets/banner.png" alt="Rayendra Aldo Putra — Robotics Engineering, Politeknik Negeri Batam" width="100%">
 
 <p>
   <a href="mailto:raldoputra.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.linkedin.com/in/rayendra-aldo-putra-40399b400"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://raldoputradev.github.io"><img src="https://img.shields.io/badge/Portfolio-1F2328?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"></a>
-  <img src="https://img.shields.io/badge/Batam,%20Kepulauan%20Riau-1F2328?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Domisili">
+  <img src="https://img.shields.io/badge/Batam,%20Kepulauan%20Riau-1F2328?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location">
 </p>
 </div>
 
@@ -13,7 +13,7 @@ Saya membangun sistem dari ujung ke ujung: firmware di perangkat, API di server,
 
 > **English:** Robotics engineering student building end-to-end systems — device firmware, backend APIs, operator dashboards, and mobile apps. Most interested in the seam where hardware meets software, especially systems that keep working when the network does not.
 
-## Perkakas
+## Tools
 
 <div align="center">
 
@@ -25,43 +25,45 @@ Saya membangun sistem dari ujung ke ujung: firmware di perangkat, API di server,
 
 [![Mobile](https://skillicons.dev/icons?i=flutter,dart&theme=dark)](https://skillicons.dev)
 
-**Desktop & perangkat**
+**Desktop & hardware**
 
 [![Desktop](https://skillicons.dev/icons?i=cs,dotnet,cpp,arduino&theme=dark)](https://skillicons.dev)
 
-**Alat**
+**Workflow**
 
-[![Tools](https://skillicons.dev/icons?i=mysql,git,github,vscode,visualstudio,vite,postman,docker&theme=dark)](https://skillicons.dev)
+[![Workflow](https://skillicons.dev/icons?i=mysql,git,github,vscode,visualstudio,vite,postman,docker,figma&theme=dark)](https://skillicons.dev)
+<br>
+<img src="https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Workspace">
 
 </div>
 
-## Proyek
+## Projects
 
-**[aiot-simalas](https://github.com/raldoputradev/aiot-simalas)** — Sistem absensi dan loker laboratorium berbasis sidik jari, dipakai di Lab Robotika kampus. Empat lapisan dalam satu proyek: mesin ESP32 di pintu lab, API Laravel, dashboard untuk laboran dan dosen, serta aplikasi Flutter untuk mahasiswa. Pencocokan sidik jari terjadi di perangkat, bukan di server, dan tap yang gagal terkirim masuk antrean lokal lalu disinkronkan saat jaringan kembali — absensi tidak pernah berhenti karena internet lab bermasalah.
+**[aiot-simalas](https://github.com/raldoputradev/aiot-simalas)** — Fingerprint attendance and locker system used in the campus robotics lab. Four layers in one project: ESP32 devices at the lab door, a Laravel API, a dashboard for lab staff and lecturers, and a Flutter app for students. Matching happens on the device, not the server. Failed taps queue locally and sync when the network returns, so attendance does not stop when lab internet drops.
 
-Repositori itu adalah cermin publik: seluruh kode ada di sana, tanpa satu pun data laboratorium, foto mahasiswa, atau kredensial. Ada seeder data fiktif supaya siapa pun bisa menjalankannya sendiri, dan APK aplikasi mahasiswanya bisa diunduh dari halaman rilis.
+The public repo is a sandbox: full code, no lab data, no student photos, no credentials. Fictional seed data is included so anyone can run it, and the student APK is on the releases page.
 
-**[afis-fingerprint-analyzer](https://github.com/raldoputradev/afis-fingerprint-analyzer)** — Aplikasi desktop C# untuk mengaudit blob template DY50/R307 (512 byte) yang dipakai Simalas, plus tab terpisah untuk citra sensor. Bukan rekonstruksi foto jari dan bukan mesin matching absensi.
+**[afis-fingerprint-analyzer](https://github.com/raldoputradev/afis-fingerprint-analyzer)** — C# desktop auditor for the 512-byte DY50/R307 templates used by Simalas, plus a separate tab for sensor images. Not a reconstructed fingerprint photo and not an attendance matcher.
 
-## Bahasa yang paling sering saya pakai
+## Languages I use most
 
-<img src="assets/bahasa.png" alt="Komposisi bahasa: PHP 32,2%, Blade 29,7%, Dart 19,1%, CSS 8,5%, JavaScript 7,3%, C++ 2,9%, C 0,3%" width="640">
+<img src="assets/bahasa.png" alt="Language mix: PHP 32.2%, Blade 29.7%, Dart 19.1%, CSS 8.5%, JavaScript 7.3%, C++ 2.9%, C 0.3%" width="640">
 
-Sebaran ini datang dari kode nyata di [aiot-simalas](https://github.com/raldoputradev/aiot-simalas): backend Laravel dan dashboard Blade di server, aplikasi Flutter untuk mahasiswa, dan firmware C++ di mesin ESP32.
+This mix comes from real code in [aiot-simalas](https://github.com/raldoputradev/aiot-simalas): Laravel/Blade on the server, Flutter for students, and C++ firmware on the ESP32 machines.
 
-## Kontribusi
+## Contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raldoputradev/raldoputradev/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raldoputradev/raldoputradev/output/pacman-contribution-graph.svg">
-  <img alt="Grafik kontribusi Pac-Man" src="https://raw.githubusercontent.com/raldoputradev/raldoputradev/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/raldoputradev/raldoputradev/output/pacman-contribution-graph.svg">
 </picture>
 
-## Kontak
+## Contact
 
-Terbuka untuk kesempatan magang dan kolaborasi teknis.
+Open to internships and technical collaboration.
 
 - Email: raldoputra.dev@gmail.com
 - LinkedIn: [rayendra-aldo-putra](https://www.linkedin.com/in/rayendra-aldo-putra-40399b400)
-- Portofolio: [raldoputradev.github.io](https://raldoputradev.github.io)
-- Domisili: Batam, Kepulauan Riau
+- Portfolio: [raldoputradev.github.io](https://raldoputradev.github.io)
+- Location: Batam, Kepulauan Riau
