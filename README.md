@@ -1,3 +1,4 @@
+<div align="center">
 <img src="assets/banner.png" alt="Rayendra Aldo Putra — Teknik Robotika, Politeknik Negeri Batam" width="100%">
 
 <p>
@@ -6,6 +7,7 @@
   <a href="https://raldoputradev.github.io"><img src="https://img.shields.io/badge/Portfolio-1F2328?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"></a>
   <img src="https://img.shields.io/badge/Batam,%20Kepulauan%20Riau-1F2328?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Domisili">
 </p>
+</div>
 
 Saya membangun sistem dari ujung ke ujung: firmware di perangkat, API di server, dashboard untuk operator, dan aplikasi di tangan pengguna. Ketertarikan utama saya ada di titik tempat perangkat keras bertemu perangkat lunak, terutama sistem yang harus tetap bekerja saat jaringannya mati.
 
@@ -13,9 +15,11 @@ Saya membangun sistem dari ujung ke ujung: firmware di perangkat, API di server,
 
 ## Perkakas
 
+<div align="center">
+
 **Web**
 
-[![Web](https://skillicons.dev/icons?i=laravel,php,react,nextjs,ts,tailwind&theme=dark)](https://skillicons.dev)
+[![Web](https://skillicons.dev/icons?i=html,css,js,ts,php,laravel,react,nextjs,tailwind&theme=dark)](https://skillicons.dev)
 
 **Mobile**
 
@@ -28,6 +32,8 @@ Saya membangun sistem dari ujung ke ujung: firmware di perangkat, API di server,
 **Alat**
 
 [![Tools](https://skillicons.dev/icons?i=mysql,git,github,vscode,visualstudio,vite,postman,docker&theme=dark)](https://skillicons.dev)
+
+</div>
 
 ## Proyek
 
