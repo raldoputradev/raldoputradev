@@ -54,7 +54,7 @@ This mix comes from real code in [aiot-simalas](https://github.com/raldoputradev
 ## Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raldoputradev&show_icons=true&theme=github_dark&hide_border=true&hide_rank=true" alt="GitHub stats">
+  <img src="https://github-readme-stats.shion.dev/api?username=raldoputradev&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;hide_rank=true" alt="GitHub stats">
 </div>
 
 ## Contributions
