@@ -56,9 +56,7 @@ Sebaran ini datang dari kode nyata di [aiot-simalas](https://github.com/raldoput
 
 ## Yang sedang saya kerjakan
 
-- Aplikasi desktop C# untuk membaca template sidik jari mentah menjadi citra dan skor kualitas
-- Docker untuk Laravel dan MySQL, supaya proyek bisa dijalankan tanpa menyiapkan XAMPP
-- ROS2 untuk robot mobile otonom: odometri roda, LiDAR, dan sensor jarak dekat
+Proyek berikutnya saya siapkan dulu sampai layak dipublikasikan. Yang ditampilkan sekarang hanya [aiot-simalas](https://github.com/raldoputradev/aiot-simalas).
 
 ## Kontribusi
 
