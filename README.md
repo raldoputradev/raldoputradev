@@ -4,7 +4,7 @@
 <p>
   <a href="mailto:raldoputra.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.linkedin.com/in/rayendra-aldo-putra-40399b400"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://raldoputradev.github.io"><img src="https://img.shields.io/badge/Portfolio-1F2328?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"></a>
+  <a href="https://raldoputra.web.id"><img src="https://img.shields.io/badge/Portfolio-1F2328?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"></a>
   <img src="https://img.shields.io/badge/Batam,%20Kepulauan%20Riau-1F2328?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location">
 </p>
 </div>
@@ -71,5 +71,5 @@ Open to internships and technical collaboration.
 
 - Email: raldoputra.dev@gmail.com
 - LinkedIn: [rayendra-aldo-putra](https://www.linkedin.com/in/rayendra-aldo-putra-40399b400)
-- Portfolio: [raldoputradev.github.io](https://raldoputradev.github.io)
+- Portfolio: [raldoputra.web.id](https://raldoputra.web.id)
 - Location: Batam, Kepulauan Riau
